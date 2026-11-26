@@ -1,4 +1,3 @@
-# Gust Wind Model Forming by Python (GWM)
 # Multi-scale Gust Wind Model — Documentation
 
 > **Optimized and engineering-ready implementation of the multi-scale wind model**
@@ -515,4 +514,3 @@ by `self_check.py` (39/39 passed).
 ---
 
 *Program generated on 2026-11.*
-
